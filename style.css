@@ -37,7 +37,7 @@ div{
 
 .content{
     display: inline-block;
-    width: 70vh;
+    width: 170vh;
     border: 2px solid black;
     background-color: pink;
 }
